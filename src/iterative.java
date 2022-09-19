@@ -1,12 +1,8 @@
 /**
  *  @author jgold
- *   Joseph Goldberger - 21958283
- *   For COMP 352 Section H - Fall 2020
- *   Assignment 2 - version 2
- *   Due Date: October 25, 2020
+ *   Joseph Goldberger 
  *
- *   This is version 2 of the programming part for assignment 1. My program has a
- *   static bollean MagicBoard method that takes a 2d integer array, a 2d array boolean
+ *   My program has a static bollean MagicBoard method that takes a 2d integer array, a 2d array boolean
  *   array, a stack of positions, and a start position. It will then check through a loop
  *   that will go until my stack is empty. It does the same thing as version 1 checking
  *   to see if it can find position zero but inseatd of recursively it keeps putting new
