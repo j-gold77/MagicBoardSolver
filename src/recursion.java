@@ -1,12 +1,7 @@
 /**
  *  @author jgold
- *   Joseph Goldberger - 21958283
- *   For COMP 352 Section H - Fall 2020
- *   Assignment 2 - version 1
- *   Due Date: October 25, 2020
- *
- *   This is version 1 of the programming part for assignment 1. My program has a
- *   static bollean MagicBoard method that takes a 2d integer array, a 2d array boolean
+ *   Joseph Goldberger 
+ *   My program has a static bollean MagicBoard method that takes a 2d integer array, a 2d array boolean
  *   array, a start position and a number based on that position. It then checks which
  *   direction it can move in based off that number without going off the board. If it can
  *   move in a certain direction it does so recursively until it either reaches the number
